@@ -1,0 +1,24 @@
+========== PC BUILDER PORTAL REPORT ==========
+
+Component: AMD Ryzen 5 7600
+Price: Rs. 55000
+----------------------------------------
+Component: MSI B650 Gaming Plus
+Price: Rs. 65000
+----------------------------------------
+Component: Corsair Vengeance 16GB DDR5
+Price: Rs. 18000
+----------------------------------------
+Component: NVIDIA RTX 4060
+Price: Rs. 115000
+----------------------------------------
+Component: Samsung 970 EVO Plus 1TB SSD
+Price: Rs. 25000
+----------------------------------------
+Component: Corsair CV650 650W
+Price: Rs. 22000
+----------------------------------------
+
+Total Components: 6
+Total PC Build Cost: Rs. 300000
+Report Generated Successfully!

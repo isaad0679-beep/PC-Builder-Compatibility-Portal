@@ -1,0 +1,85 @@
+{
+    "CPU": [
+        {
+            "id": 1,
+            "name": "AMD Ryzen 5 7600",
+            "socket": "AM5",
+            "price": 55000,
+            "wattage": 65
+        },
+        {
+            "id": 2,
+            "name": "Intel Core i5-12400F",
+            "socket": "LGA1700",
+            "price": 38000,
+            "wattage": 65
+        },
+        {
+            "id": 11,
+            "name": "AMD Ryzen 7 7700",
+            "price": 85000.0,
+            "socket": "AM5",
+            "wattage": 65
+        }
+    ],
+    "Motherboard": [
+        {
+            "id": 3,
+            "name": "MSI B650 Gaming Plus",
+            "socket": "AM5",
+            "ram_type": "DDR5",
+            "price": 65000
+        },
+        {
+            "id": 4,
+            "name": "Gigabyte B760M DS3H",
+            "socket": "LGA1700",
+            "ram_type": "DDR4",
+            "price": 42000
+        }
+    ],
+    "RAM": [
+        {
+            "id": 5,
+            "name": "Corsair Vengeance 16GB DDR5",
+            "ram_type": "DDR5",
+            "price": 18000
+        },
+        {
+            "id": 6,
+            "name": "Kingston Fury 16GB DDR4",
+            "ram_type": "DDR4",
+            "price": 12000
+        }
+    ],
+    "GPU": [
+        {
+            "id": 7,
+            "name": "NVIDIA RTX 4060",
+            "price": 115000,
+            "wattage": 115
+        },
+        {
+            "id": 8,
+            "name": "AMD RX 7600",
+            "price": 95000,
+            "wattage": 165
+        }
+    ],
+    "Storage": [
+        {
+            "id": 9,
+            "name": "Samsung 970 EVO Plus 1TB SSD",
+            "price": 25000,
+            "wattage": 5
+        }
+    ],
+    "PSU": [
+        {
+            "id": 10,
+            "name": "Corsair CV650 650W",
+            "price": 22000,
+            "wattage": 650
+        }
+    ]
+}
